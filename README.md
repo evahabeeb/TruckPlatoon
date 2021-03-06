@@ -2,7 +2,7 @@
 
 
 TRUCK PLATOON IMPLEMENTATION SCENARIO
-Distributed and Parallel Systems Project
+#Distributed and Parallel Systems Project
 Embedded Systems for Mechatronics
 
 Dortmund University of Applied Sciences
